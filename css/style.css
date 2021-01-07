@@ -7,7 +7,7 @@ body {
 header {
     content: " ";
     display: block;
-    border-bottom: 10px dotted #000000;
+    border-bottom: 10px double #000000;
 }
 
 header img {
@@ -101,7 +101,7 @@ li button {
 }
 
 main {
-    border-bottom: 10px dotted black;
+    border-bottom: 10px double black;
 }
 
 footer img {
